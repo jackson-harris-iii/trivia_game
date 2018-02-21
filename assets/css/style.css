@@ -1,0 +1,12 @@
+.mainContainer {
+    background-color: black;
+}
+
+.board {
+    background-color: rgb(119, 119, 129); 
+    min-height: 80%;
+}
+
+.displayArea {
+    height: 500px;
+}
